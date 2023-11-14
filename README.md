@@ -29,8 +29,7 @@ In every line of code, I strive to combine functionality with elegance. My focus
 Exploring the intersection of data and art, this project showcases my ability to transform complex information into visually appealing and interactive graphics.
 
 ### [Project 2: WebGL Portfolio](link-to-project-2)
-[![Project 2]()](![OIGcopy1 (1)](https://github.com/Imagineer99/Imagineer99/assets/130007945/33be6d80-f001-4d38-aa2c-2a0a1683c9be)
-ttps://neuralnovel.com)
+[![Project 2](project-2-thumbnail.jpg)](link-to-project-2)
 
 My portfolio, powered by WebGL, is a testament to the marriage of design and technology, providing a unique and memorable user experience.
 
@@ -46,3 +45,4 @@ Delve into the world of web graphics and design through my [Blog](link-to-your-b
 
 Feel free to reach out for collaborations, design consultations, or simply to discuss the latest in web graphics and design. Let's create something beautiful together!
 
+Happy designing! 🎨✨
