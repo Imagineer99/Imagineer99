@@ -31,7 +31,7 @@ Exploring the intersection of data and art, this project showcases my ability to
 ### [Project 2: Neural Novel](link-to-project-2)
 
 
-My portfolio, powered by Three.js, is a testament to the marriage of design and technology, providing a unique and memorable user experience.
+My personal website, powered by Three.js, is a testament to the marriage of design and technology, providing a unique and memorable user experience.
 
 ## <span style="color: #ff6600;">Blog & Insights</span>
 
