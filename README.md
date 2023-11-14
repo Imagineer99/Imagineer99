@@ -40,7 +40,7 @@ Delve into the world of web graphics and design through my [Blog](link-to-your-b
 ## <span style="color: #ff6600;">🌐 Let's Connect</span>
 
 - **LinkedIn:** [Your LinkedIn Profile](link-to-linkedin)
-- **Twitter:** [@NeuralNovel (https://twitter.com/NeuralNovel)
+- **Twitter:** [@NeuralNovel](https://twitter.com/NeuralNovel)
 - **Portfolio:** [Your Portfolio](link-to-portfolio)
 
 Feel free to reach out for collaborations, design consultations, or simply to discuss the latest in web graphics and design. Let's create something beautiful together!
