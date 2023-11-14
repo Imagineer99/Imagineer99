@@ -1,8 +1,8 @@
 <div align="center">
-#Work in progress please ignore
-# Hello, I'm [Lee] 
 
-As a passionate web developer with a keen eye for design, I specialize in creating immersive web graphics and captivating user interfaces. Welcome to my GitHub profile, where creativity meets functionality!
+# Hello, I'm Lee
+
+As a passionate web developer with a keen eye for design, I specialize in creating immersive web graphics and captivating user interfaces. Welcome to my GitHub profile, where creativity meets functionality.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](link-to-linkedin)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](link-to-twitter)
