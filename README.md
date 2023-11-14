@@ -28,7 +28,7 @@ In every line of code, I strive to combine functionality with elegance. My focus
 
 Exploring the intersection of data and art, this project showcases my ability to transform complex information into visually appealing and interactive graphics.
 
-### [Project 2: WebGL Portfolio](link-to-project-2)
+### [Project 2: Neural Novel](link-to-project-2)
 
 
 My portfolio, powered by Three.js, is a testament to the marriage of design and technology, providing a unique and memorable user experience.
