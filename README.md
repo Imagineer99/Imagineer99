@@ -11,17 +11,17 @@ As a passionate web developer with a keen eye for design, I specialize in creati
 
 </div>
 
-## 🎨 Design is my Passion
+## Design
 
 In every line of code, I strive to combine functionality with elegance. My focus is on crafting visually stunning and seamlessly interactive web experiences that leave a lasting impression.
 
-## 💻 Technologies & Tools
+## Technologies & Tools
 
 - **Web Technologies:** HTML, CSS, JavaScript, WebGL
 - **Graphics Frameworks:** Three.js, D3.js
 - **Design Tools:** Adobe Creative Suite (Photoshop, Illustrator), Figma
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### [Project 1: Interactive Data Art](link-to-project-1)
 [![Project 1](project-1-thumbnail.jpg)](link-to-project-1)
@@ -33,7 +33,7 @@ Exploring the intersection of data and art, this project showcases my ability to
 
 My portfolio, powered by WebGL, is a testament to the marriage of design and technology, providing a unique and memorable user experience.
 
-## ✍️ Blog & Insights
+## Blog & Insights
 
 Delve into the world of web graphics and design through my [Blog](link-to-your-blog), where I share insights, tutorials, and thoughts on the latest trends.
 
