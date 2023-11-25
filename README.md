@@ -5,9 +5,8 @@
 As a passionate web developer with a keen eye for design, I specialize in creating immersive web graphics and captivating user experience. Welcome to my GitHub profile, where creativity meets functionality.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](link-to-linkedin)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](link-to-twitter)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=web)](link-to-portfolio)
-[![Blog](https://img.shields.io/badge/-Blog-brightgreen?style=flat-square&logo=blogger&logoColor=white)](link-to-your-blog)
+
 
 </div>
 
