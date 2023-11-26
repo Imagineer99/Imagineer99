@@ -24,7 +24,7 @@ My focus is on crafting visually stunning and seamlessly interactive web experie
 
 ## <span style="color: #ff6600;">Featured Projects</span>
 
-### [Project 1: Interactive Portfolio](link-to-project-1)
+### [Project 1: Interactive Portfolio](https://leejackson.info/)
 
 
 Exploring the intersection of data and art, this project showcases my ability to transform complex information into visually appealing and interactive graphics.
