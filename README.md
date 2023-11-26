@@ -26,10 +26,13 @@ My focus is on crafting visually stunning and seamlessly interactive web experie
 
 ### [Project 1: Interactive Portfolio](https://leejackson.info/)
 
+Providing remote work oppertunity and guidance for employees seeking an improved work-life balance.
+
+### [Project 2: DistanceJobs.co.uk](https://www.distancejobs.co.uk/)
 
 Exploring the intersection of data and art, this project showcases my ability to transform complex information into visually appealing and interactive graphics.
 
-### [Project 2: Neural Novel](link-to-project-2)
+### [Project 3: Neural Novel](https://neuralnovel.com/)
 
 
 My personal website, powered by Three.js, is a testament to the marriage of design and technology, providing a unique and memorable user experience.
