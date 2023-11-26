@@ -1,13 +1,12 @@
 <div align="center">
 
 # <span style="color: #ff6600;">Hello, I'm Lee</span>
+
+As a passionate web developer with a keen eye for design, I specialize in creating immersive web graphics and captivating user experience.
  Welcome to my GitHub profile, where creativity meets functionality.
  
-As a passionate web developer with a keen eye for design, I specialize in creating immersive web graphics and captivating user experience.
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](link-to-linkedin)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=web)](link-to-portfolio)
-
 
 </div>
 
