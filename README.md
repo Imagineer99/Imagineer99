@@ -37,8 +37,6 @@ Providing remote work oppertunity and guidance for employees seeking an improved
 
 My personal website, powered by Three.js, is a testament to the marriage of design and technology, providing a unique and memorable user experience.
 
-## <span style="color: #ff6600;">Blog & Insights</span>
-
 
 ## <span style="color: #ff6600;">🌐 Let's Connect</span>
 
