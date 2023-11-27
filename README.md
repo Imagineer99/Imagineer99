@@ -6,7 +6,7 @@ As a passionate web developer with a keen eye for design, I specialize in creati
  Welcome to my GitHub profile, where creativity meets functionality.
  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](link-to-linkedin)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=web)]((https://leejackson.info/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=web)](https://leejackson.info/)
 
 </div>
 
