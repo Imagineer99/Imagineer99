@@ -42,4 +42,4 @@ My personal website, powered by Three.js, is a testament to the marriage of desi
 
 Feel free to reach out for collaborations, design consultations, or simply to discuss the latest in web graphics and design. Let's create something beautiful together!
 
-Happy designing! 🎨✨
+
