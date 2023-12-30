@@ -20,8 +20,8 @@ My focus is on crafting visually stunning and seamlessly interactive web experie
 
 ## <span style="color: #ff6600;">Technologies & Tools</span>
 
-- **Web Technologies:** HTML, CSS, JavaScript, WebGL
-- **Graphics Frameworks:** Three.js, D3.js
+- **Web Technologies:** HTML, CSS, TypeScript, WebGL, React.js
+- **3D Frameworks:** Three.js, D3.js
 - **Design Tools:** Adobe Creative Suite (Photoshop, Illustrator), Figma
 
 ## <span style="color: #ff6600;">Featured Projects</span>
