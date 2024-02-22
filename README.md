@@ -14,9 +14,9 @@ As a passionate web developer with a keen eye for design, I specialize in creati
 
 ## <span style="color: #ff6600;">Design</span>
 
-In every line of code, I strive to combine functionality with elegance. 
+I strive to combine functionality with elegance. 
 
-My focus is on crafting visually stunning and seamlessly interactive web experiences that leave a lasting impression.
+I craft visually stunning and seamlessly interactive web experiences that leave a lasting impression.
 
 ## <span style="color: #ff6600;">Technologies & Tools</span>
 
