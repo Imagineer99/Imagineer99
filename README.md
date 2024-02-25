@@ -2,49 +2,38 @@
 
 # <span style="color: #ff6600;">Hello, I'm Lee</span>
 
-As a passionate web developer with a keen eye for design, I specialize in creating captivating & immersive web graphics that captivate user experience.
-
-
- Welcome to my GitHub, where creativity meets functionality.
-
+Passionate web developer with an artisan's touch for design, specializing in crafting captivating & immersive web graphics for an unparalleled user experience.
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=web)](https://leejackson.info/)
 
-</div align="center">
+</div>
 
-## <span style="color: #ff6600;">Design</span>
+## <span style="color: #ff6600;">Design Philosophy 🎨</span>
 
-I strive to combine functionality with elegance. 
+Striving for the seamless fusion of functionality and elegance, I create visually stunning and interactively immersive web experiences that linger in the minds of users.
 
-I craft visually stunning and seamlessly interactive web experiences that leave a lasting impression.
-
-## <span style="color: #ff6600;">Technologies & Tools</span>
+## <span style="color: #ff6600;">Technologies & Tools 🛠️</span>
 
 - **Web Technologies:** HTML, CSS, TypeScript, WebGL, React.js
 - **3D Frameworks:** Three.js, D3.js
 - **Design Tools:** Adobe Creative Suite (Photoshop, Illustrator), Figma
 
-## <span style="color: #ff6600;">Featured Projects</span>
+## <span style="color: #ff6600;">Featured Projects 🚀</span>
 
-### [Project 1: Interactive Portfolio](https://leejackson.info/)
+### [Interactive Portfolio](https://leejackson.info/)
 
- This project showcases my ability to transform ideas into information into visually appealing and interactive web designs.
+Dive into a showcase of my prowess, transforming concepts into visually alluring and interactive web designs.
 
-### [Project 2: DistanceJobs.co.uk](https://www.distancejobs.co.uk/)
+### [DistanceJobs.co.uk](https://www.distancejobs.co.uk/)
 
-Providing remote work oppertunity and guidance for employees seeking an improved work-life balance.
+Empowering remote work opportunities, providing guidance for those seeking an improved work-life balance.
 
-### [Project 3: Neural Novel](https://neuralnovel.com/)
+### [Neural Novel](https://neuralnovel.com/)
 
-
-My personal website, powered by Three.js, is a testament to the marriage of design and technology, providing a unique and memorable user experience.
-
+My personal website, a marvel powered by Three.js, testifying to the harmonious marriage of design and technology, delivering a unique and unforgettable user experience.
 
 ## <span style="color: #ff6600;">🌐 Let's Connect</span>
 
-Feel free to reach out for collaborations, design consultations, or simply to discuss the latest in web graphics and design. Let's create something beautiful together!
+Embark on a journey of collaboration! Reach out for design consultations, discuss the latest in web graphics, or simply connect to craft something beautiful together.
 
-
-</div align="center">
-
-
+</div>
