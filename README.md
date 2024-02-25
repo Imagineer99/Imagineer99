@@ -2,7 +2,7 @@
 
 # <span style="color: #ff6600;">Hello, I'm Lee</span>
 
-As a passionate web developer with a keen eye for design, I specialize in creating immersive web graphics and captivating user experience.
+As a passionate web developer with a keen eye for design, I specialize in creating captivating & immersive web graphics that captivate user experience.
 
 
  Welcome to my GitHub profile, where creativity meets functionality.
