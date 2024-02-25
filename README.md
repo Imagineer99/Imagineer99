@@ -5,7 +5,7 @@
 As a passionate web developer with a keen eye for design, I specialize in creating captivating & immersive web graphics that captivate user experience.
 
 
- Welcome to my GitHub profile, where creativity meets functionality.
+ Welcome to my GitHub, where creativity meets functionality.
 
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=web)](https://leejackson.info/)
