@@ -11,6 +11,7 @@ As a passionate web developer with a keen eye for design, I specialize in creati
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=web)](https://leejackson.info/)
 
 </div align="center">
+
 ## <span style="color: #ff6600;">Design</span>
 
 I strive to combine functionality with elegance. 
