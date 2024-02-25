@@ -10,7 +10,7 @@ As a passionate web developer with a keen eye for design, I specialize in creati
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=web)](https://leejackson.info/)
 
-</div>
+</div align="center">
 
 ## <span style="color: #ff6600;">Design</span>
 
@@ -43,5 +43,8 @@ My personal website, powered by Three.js, is a testament to the marriage of desi
 ## <span style="color: #ff6600;">🌐 Let's Connect</span>
 
 Feel free to reach out for collaborations, design consultations, or simply to discuss the latest in web graphics and design. Let's create something beautiful together!
+
+
+</div align="center">
 
 
