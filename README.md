@@ -8,17 +8,17 @@ Passionate web developer with an artisan's touch for design, specializing in cra
 
 </div>
 
-## <span style="color: #ff6600;">Design Philosophy 🎨</span>
+## <span style="color: #ff6600;">Design Philosophy </span>
 
 Striving for the seamless fusion of functionality and elegance, I create visually stunning and interactively immersive web experiences that linger in the minds of users.
 
-## <span style="color: #ff6600;">Technologies & Tools 🛠️</span>
+## <span style="color: #ff6600;">Technologies & Tools 🛠</span>
 
 - **Web Technologies:** HTML, CSS, TypeScript, WebGL, React.js
 - **3D Frameworks:** Three.js, D3.js
 - **Design Tools:** Adobe Creative Suite (Photoshop, Illustrator), Figma
 
-## <span style="color: #ff6600;">Featured Projects 🚀</span>
+## <span style="color: #ff6600;">Featured Projects </span>
 
 ### [Interactive Portfolio](https://leejackson.info/)
 
