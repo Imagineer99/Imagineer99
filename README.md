@@ -7,7 +7,7 @@ Passionate web developer with an artisan's touch.
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=web)](https://leejackson.info/)
 
 ### [Interactive Portfolio](https://leejackson.info/)
-### [DistanceJobs.co.uk](https://www.distancejobs.co.uk/
+### [DistanceJobs.co.uk](https://www.distancejobs.co.uk/) 
 ### [Neural Novel](https://neuralnovel.com/)
 
 My personal website, a marvel powered by Three.js, testifying to the harmonious marriage of design and technology, delivering a unique and unforgettable user experience.
