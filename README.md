@@ -12,7 +12,7 @@ Passionate web developer with an artisan's touch.
 
 
 
-## <span style="color: #ff6600;">🌐 Let's Connect</span>
+## <span style="color: #ff6600;">Let's Connect 🌐 </span>
 
 Reach out for design consultations, discuss the latest in web graphics, or simply connect to craft something beautiful together.
 
