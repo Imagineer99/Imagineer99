@@ -2,7 +2,7 @@
 
 # <span style="color: #ff6600;">Hello, I'm Lee</span>
 
-Web Development Specialist with a Focus on AI Consulting.
+Web Developer specializing in AI Solutions
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=web)](https://leejackson.info/)
 
