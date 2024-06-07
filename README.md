@@ -8,7 +8,7 @@
 
 ## <span style="color: #ff6600; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Connect with Me 🌐</span>
 
-Feel free to reach out for design consultations, discussions on the latest web graphics trends, or to collaborate on creating something beautiful.
+Feel free to reach out for design consultations, discussions, or to collaborate on creating something beautiful.
 
 </div>
 
