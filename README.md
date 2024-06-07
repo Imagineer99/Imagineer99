@@ -4,7 +4,7 @@
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=web)](https://leejackson.info/)
 
-### <span style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 1.5em;"><b>[Neural Novel](https://neuralnovel.com/)</b></span>
+## <span style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 3em;"><b>[Neural Novel](https://neuralnovel.com/)</b></span>
 
 
 ```math
