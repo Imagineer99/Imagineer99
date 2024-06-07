@@ -1,20 +1,18 @@
 <div align="center">
 
-# <span style="color: #ff6600;">Hello, I'm Lee</span>
+# <span style="color: #ff6600; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Hello, I'm Lee</span>
 
-Web Developer specializing in AI Solutions
+## <span style="color: #555;">Web Developer with a Focus on AI Solutions</span>
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=web)](https://leejackson.info/)
 
-### [Interactive Portfolio](https://leejackson.info/)
-### [DistanceJobs.co.uk](https://www.distancejobs.co.uk/) 
-### [Neural Novel](https://neuralnovel.com/)
+### <span style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">[Explore My Portfolio](https://leejackson.info/)</span>
+### <span style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">[DistanceJobs.co.uk](https://www.distancejobs.co.uk/)</span>
+### <span style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">[Neural Novel](https://neuralnovel.com/)</span>
 
+## <span style="color: #ff6600; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Connect with Me 🌐</span>
 
-
-## <span style="color: #ff6600;">Let's Connect 🌐 </span>
-
-Reach out for design consultations, discuss the latest in web graphics, or simply connect to craft something beautiful together.
+Feel free to reach out for design consultations, discussions on the latest web graphics trends, or to collaborate on creating something exceptional.
 
 </div>
 
