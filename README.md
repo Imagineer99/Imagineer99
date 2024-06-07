@@ -1,18 +1,14 @@
 <div align="center">
 
-# <span style="color: #ff6600; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Hello, I'm Lee</span>
-
 # <span style="color: #555;">Web Developer with a Focus on AI Solutions</span>
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=web)](https://leejackson.info/)
 
-### <span style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">[Explore My Portfolio](https://leejackson.info/)</span>
-### <span style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">[DistanceJobs.co.uk](https://www.distancejobs.co.uk/)</span>
 ### <span style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">[Neural Novel](https://neuralnovel.com/)</span>
 
 ## <span style="color: #ff6600; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Connect with Me 🌐</span>
 
-Feel free to reach out for design consultations, discussions on the latest web graphics trends, or to collaborate on creating something exceptional.
+Feel free to reach out for design consultations, discussions on the latest web graphics trends, or to collaborate on creating something beautiful.
 
 </div>
 
