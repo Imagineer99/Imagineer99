@@ -2,7 +2,7 @@
 
 # <span style="color: #ff6600; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Hello, I'm Lee</span>
 
-## <span style="color: #555;">Web Developer with a Focus on AI Solutions</span>
+# <span style="color: #555;">Web Developer with a Focus on AI Solutions</span>
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=web)](https://leejackson.info/)
 
