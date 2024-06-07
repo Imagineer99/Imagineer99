@@ -1,6 +1,8 @@
 <div align="center">
 
-# <span style="color: #555;">Web Developer with a Focus on AI Solutions</span>
+# <span style="color: #555;">Lee Jackson</span>
+
+Web Developer with a Focus on AI Solutions
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=web)](https://leejackson.info/)
 
